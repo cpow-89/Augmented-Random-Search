@@ -2,6 +2,10 @@
 
 The project includes a simple multiprocess version of the Augmented Random Search(ARS) algorithm. Please find a detailed description of the algorithm in Augmented_Random_Search_Notes.ipynb.
 
+### Results: Half Cheetah Example
+
+[![Watch the video](https://raw.githubusercontent.com/cpow-89/Augmented-Random-Search/master/monitor/HalfCheetahBulletEnv-v0/openaigym.video.0.12196.video000000.mp4)
+
 ### Requirements(tested on Linux using Anaconda):
 
 pip install gym==0.10.5<br>
