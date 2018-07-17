@@ -1,0 +1,20 @@
+{
+  "general" : {
+                "env_name" : "HalfCheetahBulletEnv-v0",
+                "monitor_dir" : ["monitor"],
+                "checkpoint_path": ["checkpoints"],
+                "seed_np": 123
+              },
+
+  "train" : {
+              "nb_episodes": 2500,
+              "episode_length": 10000
+             },
+
+  "agent" : {
+              "learning_rate": 0.02,
+              "nb_directions": 32,
+              "nb_best_directions": 32,
+              "noise": 0.03
+            }
+}
