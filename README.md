@@ -4,7 +4,7 @@ The project includes a simple multiprocess version of the Augmented Random Searc
 
 ### Results: Half Cheetah Example
 
-[![Watch the video](https://raw.githubusercontent.com/cpow-89/Augmented-Random-Search/master/monitor/HalfCheetahBulletEnv-v0/openaigym.video.0.12196.video000000.mp4)
+[![Watch the video](https://github.com/cpow-89/Augmented-Random-Search/blob/master/monitor/HalfCheetahBulletEnv-v0/Screenshot%20from%202018-07-17%2022-21-23.png)](https://raw.githubusercontent.com/cpow-89/Augmented-Random-Search/master/monitor/HalfCheetahBulletEnv-v0/openaigym.video.0.12196.video000000.mp4)
 
 ### Requirements(tested on Linux using Anaconda):
 
